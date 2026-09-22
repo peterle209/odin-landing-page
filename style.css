@@ -68,7 +68,7 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #636363
+    background-color: #636363;
 }
 
 .header-subtext, .header-placeholder {
